@@ -1,0 +1,8 @@
+.idea
+.idea/*
+*.txt
+*.csv
+*/raw_output
+raw_output
+*/raw_output/*
+*/raw_output*
